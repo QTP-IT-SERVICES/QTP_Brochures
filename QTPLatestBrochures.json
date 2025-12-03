@@ -6,12 +6,6 @@
             "date": "2025-12-01"
       },
       {
-            "title": "QTP Seats - Dec 2025",
-            "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/Seats%202025.jpg", 
-            "pdfUrl": "https://issuu.com/qtponline/docs/qtp_seats_2025",
-            "date": "2025-12-01"
-      },
-      {
             "title": "QTP Fendt Parts Brochure 2025",
             "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP_Fendt_Parts_Brochure-Sept_2025.jpg", 
             "pdfUrl": "https://issuu.com/qtponline/docs/qtp_fendt_brochure_2025",
@@ -212,6 +206,7 @@
       }
   ]
   
+
 
 
 
