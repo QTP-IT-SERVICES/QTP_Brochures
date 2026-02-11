@@ -1,5 +1,23 @@
 [
-     {
+    {
+    "title": "QTP Hydraulik",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Hydraulics%20-%20Feb%202026.jpg", 
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_hydraulics_-_february_2026",
+    "date": "2026-02-06"
+   },
+   {
+    "title": "QTP-Magnetventilbaugruppe",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Solenoids%20-%20Feb%202026.jpg", 
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_valve_assembly_-_february_2026",
+    "date": "2026-02-06"
+   },
+   {
+    "title": "MaxiForce-Motorsätze",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20MaxiForce%20Engine%20Kits%20-%20Feb%202026_Page_01.jpg", 
+    "pdfUrl": "https://issuu.com/qtponline/docs/maxiforce_engine_kits_-_feb_2026",
+    "date": "2026-02-03"
+   }, 
+   {
     "title": "Broschüre zu Lichtmaschinen – Januar 2026",
     "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Alternator%20Brochure%20-%20Jan%2026.jpg", 
     "pdfUrl": "https://issuu.com/qtponline/docs/qtp_alternator_brochure_-_jan_26?fr=xKAE9_zMzMw",
