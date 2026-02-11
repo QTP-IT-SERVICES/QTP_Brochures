@@ -1,92 +1,104 @@
 [
-       {
-      "title": "Novedades de productos para otoño de 2025",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/QTP%20Autumn%20Product%20News%202025.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_autumn_2025",
-      "date": "2025-10-01"
-    },
-      {
-      "title": "Noticias de productos de Septiembre 2025",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20September%202025.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_september_2025",
-      "date": "2025-09-01"
-    },
-      {
-            "title": "Noticias de Productos de Agosto 2025",
-            "imageUrl": "https://productorder-qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20August%202025.jpg", 
-            "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_august_-_2025",
-            "date": "2025-08-01"
-      },
-     {
-          "title": "Noticias de Productos de Julio 2025",
-          "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20July%202025-1.jpg", 
-          "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_july_2025",
-          "date": "2025-07-01"
-     },
-     {
-      "title": "Noticias de productos de Abril 2025",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Product%20News%20-%20April%202025.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_april_2025?fr=xKAE9_zMzMw",
-      "date": "2025-04-08"
-    },
-     {
-      "title": "Noticias de Productos de Primavera 2025",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%2006%20February%202025.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/february_product_news_2025",
-      "date": "2025-02-06"
-    },{
-      "title": "Noticias de Productos Diciembre 2024",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20December%202024.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/new_december_product_news_05.12.24?fr=xKAE9_zU1NQ",
-      "date": "2024-12-01"
-    },
-     {
-      "title": "Noticias de Productos Noviembre 2024",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20November%202024.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/new_pn_winter_edition_3",
-      "date": "2024-11-01"
-    },
-    {
-      "title": "Noticias de Productos Agosto 2024",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20August%202024.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/new_august_summer_edition_2_brochure_2024?fr=xKAE9_zU1NQ",
-      "date": "2024-08-01"
-    },
-    {
-      "title": "Reducido - Folleto de Filtros Massey Ferguson 2024",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Reduced%20-%20Massey%20Ferguson%20Filters%20Booklet%202024.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/final_massey_ferguson_filters_2024?fr=xKAE9_zU1NQ",
-      "date": "2024-07-05"
-    },
-     {
-      "title": "June Product News 2025",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Product%20News%20-%20June%202025.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/product_news_june_2025",
-      "date": "2025-06-01"
-    }
-    {
-      "title": "Folleto de Montajes Lodi 2024",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Lodi%20Mounts%20Booklet%202024.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/lodi_brochure_2024_21.08.2024?fr=xKAE9_zU1NQ",
-      "date": "2024-07-03"
-    },
-    {
-        "title": "Folleto de Acumuladores 2024",
-        "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Accumulators%20Brochure%202024.jpg", 
-        "pdfUrl": "https://issuu.com/qtponline/docs/qtp_accumulators_31.07.2024_14.45",
-        "date": "2024-07-02"
-      },
-      {
-        "title": "Noticias de Productos Julio 2024",
-        "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/NPB%20Summer%20-%20July%2024%2017.07.24.14.47%20FINAL-1%201.jpg",
-        "pdfUrl": "https://issuu.com/qtponline/docs/npb_summer_-_july_24_17.07.24.14.47_final?fr=xKAE9_zU1NQ",
-        "date": "2024-07-01"
-      },
-      {
-        "title": "Noticias de Productos Primavera 2024",
-        "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20Spring%202024.png",
-        "pdfUrl": "https://issuu.com/qtponline/docs/march-product-news-2024-issue-3",
-        "date": "2024-06-01"
-      }
-    
-  ]
+  {
+    "title": "Noticias de Productos de Febrero 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20Feb%202026_Page_01.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_products_news_-_february_2026",
+    "date": "2026-02-01"
+  },
+  {
+    "title": "Noticias de Productos de Enero 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Jan%20PN%20thumbnail.jpeg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_new_products_-_january_2026",
+    "date": "2026-01-02"
+  },
+  {
+    "title": "Noticias de Productos de Otoño 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/QTP%20Autumn%20Product%20News%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_autumn_2025",
+    "date": "2025-10-01"
+  },
+  {
+    "title": "Noticias de Productos de Septiembre 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20September%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_september_2025",
+    "date": "2025-09-01"
+  },
+  {
+    "title": "Noticias de Productos de Agosto 2025",
+    "imageUrl": "https://productorder-qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20August%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_august_-_2025",
+    "date": "2025-08-01"
+  },
+  {
+    "title": "Noticias de Productos de Mayo 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20May%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/may_product_news_2025?fr=xKAE9_zMzMw",
+    "date": "2025-05-01"
+  },
+  {
+    "title": "Noticias de Productos de Abril 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Product%20News%20-%20April%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_-_april_2025?fr=xKAE9_zMzMw",
+    "date": "2025-04-08"
+  },
+  {
+    "title": "Noticias de Productos de Diciembre 2024",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20December%202024.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/new_december_product_news_05.12.24?fr=xKAE9_zU1NQ",
+    "date": "2024-12-01"
+  },
+  {
+    "title": "Noticias de Productos de Noviembre 2024",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20November%202024.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/new_pn_winter_edition_3",
+    "date": "2024-11-01"
+  },
+  {
+    "title": "Noticias de Productos de Agosto 2024",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20August%202024.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/new_august_summer_edition_2_brochure_2024?fr=xKAE9_zU1NQ",
+    "date": "2024-08-01"
+  },
+  {
+    "title": "Folleto de Acumuladores 2024",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Accumulators%20Brochure%202024.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_accumulators_31.07.2024_14.45",
+    "date": "2024-07-02"
+  },
+  {
+    "title": "Noticias de Productos de Julio 2024",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/NPB%20Summer%20-%20July%2024%2017.07.24.14.47%20FINAL-1%201.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/npb_summer_-_july_24_17.07.24.14.47_final?fr=xKAE9_zU1NQ",
+    "date": "2024-07-01"
+  },
+  {
+    "title": "Noticias de Productos de Primavera 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Product%20News%20Spring%202024.png",
+    "pdfUrl": "https://issuu.com/qtponline/docs/march-product-news-2024-issue-3",
+    "date": "2024-06-01"
+  },
+  {
+    "title": "Noticias de Productos de Marzo 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs and Files/QTP-Product-News-March-2025v2.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/spring_product_news_2025",
+    "date": "2025-02-26"
+  },
+  {
+    "title": "Noticias de Productos de Febrero 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20Feb%202025%20Cover.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/february_product_news_2025",
+    "date": "2025-02-04"
+  },
+  {
+    "title": "Noticias de Productos de Junio 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Product%20News%20-%20June%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/product_news_june_2025",
+    "date": "2025-06-01"
+  },
+  {
+    "title": "Noticias de Productos de Julio 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Product%20News%20-%20July%202025-1.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_product_news_july_2025",
+    "date": "2025-07-01"
+  }
+]
