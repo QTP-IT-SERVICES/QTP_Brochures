@@ -41,6 +41,12 @@
             "pdfUrl": "https://issuu.com/qtponline/docs/qtp_engine_catalogue",
             "date": "2017-05-09"
       },
+       {
+          "title": "Kits de motor MaxiForce",
+          "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20MaxiForce%20Engine%20Kits%20-%20Feb%202026_Page_01.jpg", 
+          "pdfUrl": "https://issuu.com/qtponline/docs/maxiforce_engine_kits_-_feb_2026",
+          "date": "2026-02-03"
+      }, 
       {
             "title": "Piezas de Combustible",
             "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/fuel_parts_thumbnail.jpg",
