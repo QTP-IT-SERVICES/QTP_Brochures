@@ -1,5 +1,11 @@
 [
       {
+            "title": "DANA Parts Catalogue 2026",
+            "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/QTP%20DANA%20Parts%20Catalogue%202026.jpg",
+            "pdfUrl": "https://issuu.com/qtponline/docs/qtp_-_dana_catalogue_2026",
+            "date": "2026-02-19"
+      },
+      {
             "title": "Fiat Bonnets - Dec 2025",
             "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/Fiat%20Bonnets%20-%20Dec%202025.jpg", 
             "pdfUrl": "https://issuu.com/qtponline/docs/fiat_bonnets_-_dec_2025",
@@ -206,6 +212,7 @@
       }
   ]
   
+
 
 
 
