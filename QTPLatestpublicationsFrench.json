@@ -1,68 +1,75 @@
 [
-   {
-      "title": "Catalogue de pièces QTP DANA 2026",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/QTP%20DANA%20Parts%20Catalogue%202026.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_-_dana_catalogue_2026",
-      "date": "2026-02-19"
-   },
-   {
-    "title": "Hydraulique QTP",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Hydraulics%20-%20Feb%202026.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_hydraulics_-_february_2026",
-    "date": "2026-02-06"
-   },
-   {
-    "title": "Ensemble électrovanne QTP",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Solenoids%20-%20Feb%202026.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_valve_assembly_-_february_2026",
-    "date": "2026-02-06"
-   },
-   {
-    "title": "Kits moteur MaxiForce",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20MaxiForce%20Engine%20Kits%20-%20Feb%202026_Page_01.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/maxiforce_engine_kits_-_feb_2026",
-    "date": "2026-02-03"
-   }, {
-    "title": "Brochure sur les alternateurs – Janvier 2026",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Alternator%20Brochure%20-%20Jan%2026.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_alternator_brochure_-_jan_26?fr=xKAE9_zMzMw",
-    "date": "2026-01-16"
-   }, 
-   {
-    "title": "Jeux de revêtement en mousse et accessoires pour antennes",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Cladding%20Kits%20%26%20Antennas.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_cladding_kits_antenna_accessories_-_for_john?fr=xKAE9_zMzMw",
-    "date": "2026-01-15"
-   }, 
   {
-    "title": "Kits de réparation, de conduite de carburant et de raccords banjo",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Repair%2C%20Fuel%20Line%20%26%20Banjo%20Kits%20%20-%20Jan%202026_page-0001.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_fuel_line_repair_sheet_-_jan_2026?fr=xKAE9_zMzMw",
-    "date": "2026-01-16"
-   }, 
-  {
-    "title": "Nouveau catalogue de filtres John Deere 2026",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/New%20John%20Deere%20Filters%20Catalogue%202026.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_john_deere_filters_catalogue_-_jan_2026",
-    "date": "2025-12-17"
-   },
-  {
-    "title": "Pompes hydrauliques QTP Rexroth (Bosch) - Décembre 2025",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Hydraulic%20Pumps%20Rexroth%20-%20Dec%202025.jpg", 
-    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_hydraulic_pumps_rexroth_bosch_-_dec_2025",
-    "date": "2025-12-15"
-   },
-  {
-      "title": "Sièges QTP - Décembre 2025",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/Seats%202025.jpg", 
-      "pdfUrl": "https://issuu.com/qtponline/docs/qtp_seats_2025",
-      "date": "2025-12-01"
+    "title": "Actualités produits de mars 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20March%20Product%20News%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_products_news_-_march_2026",
+    "date": "2026-03-02"
   },
   {
-      "title": "CNH Brochure du produit",
-      "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Cover%20Page.jpg",
-      "pdfUrl": "https://issuu.com/qtponline/docs/cnh_brochure_2025?fr=xKAE9_zMzMw",
-      "date": "2025-04-15"
+    "title": "Catalogue de pièces QTP DANA 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/QTP%20DANA%20Parts%20Catalogue%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_-_dana_catalogue_2026",
+    "date": "2026-02-19"
+  },
+  {
+    "title": "Hydraulique QTP",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Hydraulics%20-%20Feb%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_hydraulics_-_february_2026",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Ensemble électrovanne QTP",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20Solenoids%20-%20Feb%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_valve_assembly_-_february_2026",
+    "date": "2026-02-06"
+  },
+  {
+    "title": "Kits moteur MaxiForce",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/QTP%20MaxiForce%20Engine%20Kits%20-%20Feb%202026_Page_01.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/maxiforce_engine_kits_-_feb_2026",
+    "date": "2026-02-03"
+  },
+  {
+    "title": "Brochure sur les alternateurs – Janvier 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Alternator%20Brochure%20-%20Jan%2026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_alternator_brochure_-_jan_26?fr=xKAE9_zMzMw",
+    "date": "2026-01-16"
+  },
+  {
+    "title": "Jeux de revêtement en mousse et accessoires pour antennes",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Cladding%20Kits%20%26%20Antennas.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_cladding_kits_antenna_accessories_-_for_john?fr=xKAE9_zMzMw",
+    "date": "2026-01-15"
+  },
+  {
+    "title": "Kits de réparation, de conduite de carburant et de raccords banjo",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Repair%2C%20Fuel%20Line%20%26%20Banjo%20Kits%20%20-%20Jan%202026_page-0001.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_fuel_line_repair_sheet_-_jan_2026?fr=xKAE9_zMzMw",
+    "date": "2026-01-16"
+  },
+  {
+    "title": "Nouveau catalogue de filtres John Deere 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/New%20John%20Deere%20Filters%20Catalogue%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_john_deere_filters_catalogue_-_jan_2026",
+    "date": "2025-12-17"
+  },
+  {
+    "title": "Pompes hydrauliques QTP Rexroth (Bosch) - Décembre 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Hydraulic%20Pumps%20Rexroth%20-%20Dec%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_hydraulic_pumps_rexroth_bosch_-_dec_2025",
+    "date": "2025-12-15"
+  },
+  {
+    "title": "Sièges QTP - Décembre 2025",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/Seats%202025.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/qtp_seats_2025",
+    "date": "2025-12-01"
+  },
+  {
+    "title": "CNH Brochure du produit",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/Cover%20Page.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/cnh_brochure_2025?fr=xKAE9_zMzMw",
+    "date": "2025-04-15"
   },
   {
     "title": "Radiateurs & Bouchons",
