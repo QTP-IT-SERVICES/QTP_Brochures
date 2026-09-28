@@ -126,12 +126,6 @@
           "date": "2026-02-03"
       }, 
       {
-            "title": "LED-Beleuchtung",
-            "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/NewLEDCatalogue_2023_thumbnail.jpg",
-            "pdfUrl": "https://issuu.com/qtponline/docs/new_led_catalogue_2023",
-            "date": "2023-10-23"
-      },
-      {
             "title": "Rückspiegel",
             "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/NewMirror_Catalogue.jpg",
             "pdfUrl": "https://issuu.com/qtponline/docs/newmirror_catalogue23",
