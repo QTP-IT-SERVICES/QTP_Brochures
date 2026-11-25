@@ -1,5 +1,11 @@
 [
   {
+    "title": "QTP Werkstatt- und Servicetools 2026",
+    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Catalogues/thumbnails/Workshop%20Service%20Tools%202026.jpg",
+    "pdfUrl": "https://issuu.com/qtponline/docs/workshop_service_tools_21.01.25_d_version/18?fr=sMjg3YjkzMzAxODY",
+    "date": "2026-11-25"
+  },
+  {
     "title": "Angebote im Oktober",
     "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/Brochures-and-PN-thumbnails/October2026/october%20brochure.png",
     "pdfUrl": "https://issuu.com/qtponline/docs/october_savings_qtponline",
@@ -52,12 +58,6 @@
     "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Sensors%20%26%20Switches%20-%20Jan%2025-1.jpg",
     "pdfUrl": "https://issuu.com/qtponline/docs/qtp_sensors_switches_-_jan_25?fr=xKAE9_zU1NQ",
     "date": "2025-01-25"
-  },
-  {
-    "title": "QTP Werkstatt- und Servicetools 2025",
-    "imageUrl": "https://qtp.aws.aphix.software/sites/admin/plugins/elfinder/files/qtp/PDFs%20and%20Files/Cover%20Page%20Workshop%20Service%20Tools%2021.01.25.jpg",
-    "pdfUrl": "https://issuu.com/qtponline/docs/workshop_service_tools_21.01.25_d_version?fr=sNGYxZTgwMzk1ODQ",
-    "date": "2025-01-22"
   },
   {
     "title": "QTP Manometer 2025",
